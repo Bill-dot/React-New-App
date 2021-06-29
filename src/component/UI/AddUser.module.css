@@ -1,0 +1,34 @@
+.input {
+    width: 90%;
+    margin: 2rem auto;
+    max-width: 40rem;
+    padding : 1rem ;
+    /* outline: none; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.input input{
+    display: block;
+    margin:10px 0;
+    width: 100%;
+    font:inherit;
+    border: 1px solid #ccc;
+    padding:0.15rem 1rem;
+    border-radius: 10px;
+}
+
+.input label{
+    display: block;
+    font-weight: bold;
+
+}
+
+.input input:hover,
+.input input:focus{
+    outline: none;
+    border:1px solid #4f005f;
+    background-color: #e3d7e6;
+}
+

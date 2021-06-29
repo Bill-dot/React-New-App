@@ -1,0 +1,8 @@
+*{
+  box-sizing: border-box;
+}
+
+html {
+  background-color: rgba(0 , 0, 0, .76);
+  font-family: sans-serif;
+}

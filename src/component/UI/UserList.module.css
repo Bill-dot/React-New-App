@@ -1,0 +1,19 @@
+.list {
+  width: 90%;
+  margin: 2rem auto;
+  max-width: 40rem;
+  padding: 1rem;
+  font-family: inherit;
+}
+
+.list ul {
+  list-style: none;
+  padding: 1rem;
+}
+
+.list li {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+}

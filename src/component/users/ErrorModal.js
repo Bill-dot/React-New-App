@@ -19,8 +19,6 @@ export default class ErrorModal extends Component{
                         <Button onClick={this.props.onClick}>Ok</Button>
                     </footer>
                 </Card>
-
-                
             </div>
         )
     }
